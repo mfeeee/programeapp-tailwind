@@ -1,0 +1,9 @@
+# Dependencias Node
+node_modules/
+
+# Arquivo de build do Tailwind CSS
+output.css
+
+# Arquivos de IDE
+.vscode/
+*programeapp-tailwind
